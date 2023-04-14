@@ -1,0 +1,24 @@
+import java.util.Scanner;
+
+class Sample
+{
+	int empid,salary;
+	String empname;
+	Scanner sc=new Scanner(System.in);
+	void input()
+	{
+		
+	}
+	void display()
+	{
+		
+	}
+}
+public class Demo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

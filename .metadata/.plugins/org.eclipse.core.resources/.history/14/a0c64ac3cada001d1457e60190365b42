@@ -1,0 +1,21 @@
+class Foo
+{
+	int empid;
+	String empname;
+	void get1()
+	{
+		
+	}
+	void get2()
+	{
+		
+	}
+}
+public class Sample {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

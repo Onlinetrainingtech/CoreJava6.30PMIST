@@ -1,0 +1,18 @@
+
+public class Sample 
+{
+    void get1()
+    {
+    	System.out.println("Welcome to the get1 function");
+    }
+    void get2()
+    {
+    	System.out.println("Welcome to the get2 function");
+    }
+	public static void main(String[] args) {
+		
+		
+
+	}
+
+}
