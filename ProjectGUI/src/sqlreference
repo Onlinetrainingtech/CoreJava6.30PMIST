@@ -1,0 +1,3 @@
+create table adminlogin(adminid varchar(100),adminpwd varchar(100))
+insert into adminlogin values('admin@123','admin@123')
+select * from adminlogin
